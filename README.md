@@ -67,7 +67,6 @@ Aqui ilustramos a jornada da utilizadora Júlia, demonstrando como a nova interf
 
 ## Estrutura do Repositório
 * `/docs`: Relatório completo em PDF contendo a análise PACT, levantamento de requisitos e modelagem GOMS.
-* `/assets`: Imagens dos storyboards, perfis de usuários e protótipos de interface.
 
 ---
 
