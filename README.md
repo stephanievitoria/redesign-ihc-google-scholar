@@ -42,7 +42,6 @@ O projeto utilizou personas para guiar as decisões de design:
 Nesta secção, apresentamos as principais soluções visuais desenvolvidas para resolver os problemas de usabilidade e acessibilidade identificados na análise.
 
 ### 1. Redesign da Página de Resultados (Material Design)
-<img src="https://github.com/user-attachments/assets/c89b8778-b47e-4420-9b95-430ffaf52bc5" width="80%" />
 
 <img src="https://github.com/user-attachments/assets/bfb8f9a3-8f74-4d6b-be94-b6c208d5868d" width="80%" />
 
@@ -50,6 +49,8 @@ Nesta secção, apresentamos as principais soluções visuais desenvolvidas para
 * **Acessibilidade:** Inclusão de botões destacados para pesquisa por voz e leitura de texto.
 
 ### 2. Redução de Ambiguidade Funcional
+<img src="https://github.com/user-attachments/assets/e392488d-f713-4aa0-8e33-afc197876593" width="80%" />
+
 <img src="https://github.com/user-attachments/assets/eb26e2df-661c-4761-bdac-49d79b97b3af" width="80%" />
 
 * **Mudança:** A seção "Minha biblioteca" foi renomeada para **"Artigos salvos"** para evitar confusão com o Google Livros e alinhar o sistema ao modelo mental do utilizador.
