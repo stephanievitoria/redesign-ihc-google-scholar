@@ -39,7 +39,7 @@ O projeto utilizou personas para guiar as decisões de design:
 
 ## Protótipos e Interface Proposta
 
-Nesta secção, apresentamos as principais soluções visuais desenvolvidas para resolver os problemas de usabilidade e acessibilidade identificados na análise.
+Nesta seção, apresentamos as principais soluções visuais desenvolvidas para resolver os problemas de usabilidade e acessibilidade identificados na análise.
 
 ### 1. Redesign da Página de Resultados (Material Design)
 
